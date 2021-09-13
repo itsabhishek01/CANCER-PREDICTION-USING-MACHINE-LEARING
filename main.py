@@ -1,5 +1,5 @@
 #############BREAST CANCER PREDICTION THROUGH MACHINE LEARNING######
-######-------MADE BY ABHISHEK(11900404) DAV UNIVERSITY------########
+######-------MADE BY ABHISHEK------#################################
 
 #################--------START---------#############################
 
